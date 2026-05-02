@@ -1,0 +1,11 @@
+{
+  "name": "AGI Root One Coin",
+  "description": "Non-economic constitutional root artifact (ERC-721, supply=1). Anchors the AGI Root One Coin Laws v1 by SHA-256. No promises, no profit rights, no governance power, no utility, no economics.",
+  "properties": {
+    "root_laws_filename": "AGI_Root_One_Coin_Laws_v1.pdf",
+    "root_laws_sha256": "4255FC9973C99ADBF909F730A0070A58AC013DC4929BECC635852836E4797451",
+    "framework_ref": "AGI Root Framework v1.1",
+    "canonical_chain": "Polygon",
+    "upgrade_policy": "Framework v2+ only; explicit on-chain reference required"
+  }
+}

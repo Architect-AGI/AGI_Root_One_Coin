@@ -1,0 +1,47 @@
+AGI ROOT ONE COIN — CANONICAL NUMBERS & KEY REFERENCES
+========================================================
+
+CANONICAL CONTRACT (USE THIS ONLY):
+0x135B5dB8424b8F14ceFB9d8Ad629E16909B4F145
+
+DUPLICATE DEPLOYMENT (IGNORE — DO NOT USE):
+0xdb3174E666239Ab757c3E4Ffe81102CB64d50585
+
+CREATION TX HASH (CANONICAL):
+0x44e05895ab8320326c112e2356518c94c0d3d7d53f50c0ce978794ccbf1cc3ee
+
+YOUR CUSTODY ADDRESS (CURRENT):
+0x8657a76112A15513f825d163fb8E6a3547C63438
+
+D1 SHA-256 (LOCKED — DO NOT MODIFY):
+4255FC9973C99ADBF909F730A0070A58AC013DC4929BECC635852836E4797451
+
+TOKEN STANDARD: ERC-721
+TOTAL SUPPLY: 1
+TOKEN ID: 1
+SYMBOL: AGIROOT1
+CANONICAL CHAIN: Polygon Mainnet
+
+POLYGONSCAN CONTRACT PAGE:
+https://polygonscan.com/address/0x135B5dB8424b8F14ceFB9d8Ad629E16909B4F145
+
+NOTES:
+- PolygonScan is a viewer only. Even if PolygonScan has downtime,
+  the contract and mint live on Polygon forever.
+- The same on-chain data can be viewed through other explorers
+  or directly via RPC at any time.
+- Verified (Exact Match) on PolygonScan.
+- Compiler: v0.8.20+commit.a1b79de6
+- EVM: shanghai
+- License: MIT
+- Optimizer: enabled, runs=200
+
+BACKUPS TO KEEP:
+- AGIRootOneCoin.sol
+- metadata.json
+- tokenURI.txt
+- AGI_Root_One_Coin_Laws_v1.pdf (exact bytes — do not re-export)
+- Screenshots of Verified (Exact Match) on PolygonScan
+
+Generated: 2026-02-14 18:03 UTC
+Updated reference: 2026-05-02
